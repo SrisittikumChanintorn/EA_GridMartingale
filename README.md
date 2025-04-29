@@ -6,7 +6,6 @@ This Expert Advisor (EA) implements a **basic grid trading strategy** without us
 
 ## Key Features
 
-- ✅ **No signal logic** – trades are entered directly when enabled
 - 🔁 **Grid logic**: adds positions when price moves against active trades
 - 📈 **Martingale scaling**: lot size increases per repeat cycle
 - 🎯 **Profit-based close**: closes all trades in one direction once net profit exceeds a defined threshold
